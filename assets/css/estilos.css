@@ -1,0 +1,30 @@
+body{
+  text-align: justify;
+  margin: 60px;
+  
+
+}
+strong {
+  color: red;
+  border-bottom: medium solid #CC0000;
+}
+b{
+  color:yellow;
+}
+h1 {
+  color:green;
+}
+h2{
+  color:purple;
+}
+p{
+  color:blue;
+}
+span{
+  font-style: oblique;
+  color: magenta;
+}
+table, td, tr{
+  border: 1px solid;
+  margin: 70px;
+}
