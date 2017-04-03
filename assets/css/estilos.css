@@ -28,3 +28,6 @@ table, td, tr{
   border: 1px solid;
   margin: 70px;
 }
+td{
+  color: red;
+}
